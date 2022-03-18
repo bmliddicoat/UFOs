@@ -3,11 +3,11 @@
 ## Overview of Project
 The client, Dana, has asked for further in-depth analysis of UFO sightings by allowing a user to filter multiple criteria at the same time.  The filters will include the date, city, state, country, and shape.  To accomplish this, use of JavaScript and HTML will be implemented.  Each code will be refactored to ensure that the website will feature the new filters asked by the client.   
 ## Results: 
-alt txt!()
+![alt text](https://github.com/bmliddicoat/UFOs/blob/0c50051b98640237f17dd41e7c62c13b69e4008f/Images/filter.jpg)
 
 A user now has option to search through filters.  If a user wants to look for sightings in Sacramento, CA, the user would input sacramento(Enter City) and ca(Enter State) into associated filter. The image below shows the user input and the results. 
 
-alt txt!()
+![alt text](https://github.com/bmliddicoat/UFOs/blob/0c50051b98640237f17dd41e7c62c13b69e4008f/Images/user_input.jpg)
 
 
 The filter search does not need to include other fields to be used.  The website takes the user input and searches the data for user's input. 
